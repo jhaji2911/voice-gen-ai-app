@@ -1,11 +1,11 @@
-# AI Calendar Booking
+# AI Registration App
 
-This is a demo project that showcases how to create a simple AI assistant that can book calendar events on behalf of
-the user, using `NLUX`, `NLBridge`, and the `OpenAI` API.
+This is a demo project that showcases how to create a user and registering them using AI 🤖
+, using `NLUX`, `NLBridge`, and the `OpenAI` API.
 
 ## Features
 
-- [x] Create a simple AI assistant that can book calendar events on behalf of the user.
+- [x] Create a simple AI assistant that can register user.
 - [x] Use `NLUX` `React` for the user interface.
 - [x] Use `NLBridge` `Node.js` to connect to the OpenAI API and call a user defined function.
 
